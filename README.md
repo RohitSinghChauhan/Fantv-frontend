@@ -8,7 +8,7 @@ Welcome to the fantv-frontend repository! This README will guide you through set
 
 To get started with this project, follow these steps:
 
-### 1. Clone the Repository
+### => Clone the Repository
 
 First, clone the repository to your local machine:
 
@@ -16,7 +16,7 @@ First, clone the repository to your local machine:
 git clone https://github.com/RohitSinghChauhan/fantv-frontend.git
 cd fantv-frontend
 
-## 2. Install Dependencies
+## => Install Dependencies & Run
 
 Install the necessary dependencies using npm or yarn:
 
