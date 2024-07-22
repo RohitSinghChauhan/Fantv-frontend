@@ -1,4 +1,4 @@
-# My React Project
+# Frontend assignment for FanTv
 
 Welcome to the fantv-frontend repository! This README will guide you through setting up, running, and understanding the project.
 
