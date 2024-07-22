@@ -25,7 +25,7 @@ const ContentBox = ({ title, content, isAvailable, index }) => {
                 }
             </div>
 
-            <img src={index === 0 && pattern1 || index === 1 && pattern3 || index === 2 && pattern2}
+            <img src={(index === 0 && pattern1) || (index === 1 && pattern3) || (index === 2 && pattern2)}
                 style={{ position: 'absolute', bottom: '0' }} alt='' />
         </div>
     )
