@@ -13,10 +13,11 @@ To get started with this project, follow these steps:
 First, clone the repository to your local machine:
 
 git clone https://github.com/RohitSinghChauhan/fantv-frontend.git
-cd fantv-frontend
 
 Install Dependencies & Run:-
 
 ```sh
+cd fantv-frontend
+
 npm install
 npm start
