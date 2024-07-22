@@ -21,3 +21,8 @@ cd fantv-frontend
 
 npm install
 npm start
+```
+
+### OR View Live
+https://fantvfrontend-by-rohit.netlify.app/
+
